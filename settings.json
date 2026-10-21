@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "Ominous bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "Ominousmc.aternos.me",
+    "port": 36850,
+    "version": "1.21.5",
     "try-creative": false
   },
   "position": {
